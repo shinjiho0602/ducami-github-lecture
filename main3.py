@@ -1,2 +1,5 @@
 for i in range(5) :
     print(i)
+def minus(a,b) :
+    return a-b
+print("파이썬이 좋아요")
